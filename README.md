@@ -15,10 +15,6 @@
     "career": "Computer Science and Technology",
     "graduation": "2022-2026"
   },
-  "location": {
-    "country": "México 🇲🇽",
-    "state": "Ciudad de México"
-  },
   "interests": ["Back-End Development", "Finance", "Full Stack Development", "Music"],
   "hobbies": ["Gym", "Video Games", "Cooking"],
   "currently_learning": ["Data Structures and Algorithms"],
