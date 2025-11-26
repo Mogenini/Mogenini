@@ -9,16 +9,9 @@
 
 ```json
 {
-  "role": "Student",
-  "education": {
-    "university": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
-    "career": "Computer Science and Technology",
-    "graduation": "2022-2026"
-  },
+
   "interests": ["Back-End Development", "Finance", "Full Stack Development", "Music"],
-  "hobbies": ["Gym", "Video Games", "Cooking"],
-  "currently_learning": ["Data Structures and Algorithms"],
-  "open_to_work": true
+  "hobbies": ["Gym", "Video Games", "Cooking"]
 }
 ```
 ---
